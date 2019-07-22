@@ -1,13 +1,13 @@
 # c_patterns
 This repository contains different patterns of C
-/*******************************************************/
+/*******************************************************
 I have made the patterns such as 
 
 *
 **
 ***
 ****
-/********************************************************/
+
 My approach was to divide the patterns into triangle 
     1
    121
@@ -16,22 +16,22 @@ My approach was to divide the patterns into triangle
   12321
    121
     1
-/*****************************************************/    
+    
 There are 6 triangles in total
 first one is space
-/****************************************************/
+
 second triangle is 
    1
   12 
  123
 1234
-/**************************************************/
+
 third triangle is 
 
 1
 21
 321
-/*************************************************/
+*************************************************/
 fourth triangle is the outer triangle is a space
 fifth triangle is 
  123
