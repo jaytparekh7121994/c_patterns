@@ -18,8 +18,8 @@ This repository contains different patterns of C
    121
     1
 ```    
-There are 6 triangles in total
-first one is space
+There are 6 triangles in total \
+first one is space \
 second triangle is 
 ```
    1
@@ -34,7 +34,7 @@ third triangle is
 21
 321
 ```
-fourth triangle is the outer triangle is a space
+fourth triangle is the outer triangle is a space \
 fifth triangle is 
 ```
  123
@@ -49,4 +49,4 @@ Sixth triangle is
 1
 
 ```
-## You can refer to https://www.intechgrity.com/understanding-and-writing-pattern-programs-in-ccpp/ for a good explanation regarding how to solve patterns. 
+## You can refer to [https://www.intechgrity.com/understanding-and-writing-pattern-programs-in-ccpp/] for a good explanation regarding how to solve patterns.
